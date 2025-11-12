@@ -1,4 +1,4 @@
-package domain.rule;
+package domain.model;
 
 public enum PerfilRisco {
     BAIXO,
